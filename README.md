@@ -20,3 +20,9 @@
 
 - 📫 puedes encontrarme en **claricoy@unsa.edu.pe**
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisly27&show_icons=true&locale=en&layout=compact" alt="crisly27" /> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=crisly27&show_icons=true&locale=en" alt="crisly27" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisly27&" alt="crisly27" /></p>
